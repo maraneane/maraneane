@@ -4,7 +4,7 @@
   <div> 
   
   ### "This is the secret of life: to be non-serious but absolutely involved!" (Sadhguru)
-  ##### .UX Research and Research Ops.
+  ##### .UX RESEARCH.
      
   <a href="https://github.com/maraneane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraneane&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/maraneane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/nanesteps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-        </a>
-        <p align="center"><img src="http://www.tomorrowstarted.com/wp-content/uploads/2014/09/monty-python-make-tea-not-love-480x278.png" width="350" title="hover text">
+        <p>
+  <img src="http://www.tomorrowstarted.com/wp-content/uploads/2014/09/monty-python-make-tea-not-love-480x278.png" width="350" title="hover text">
   </p>
  
 
