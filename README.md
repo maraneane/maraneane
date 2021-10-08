@@ -14,8 +14,7 @@
   <a href="https://www.linkedin.com/in/maraneane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/nanesteps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-        <p>
-  <img src="http://www.tomorrowstarted.com/wp-content/uploads/2014/09/monty-python-make-tea-not-love-480x278.png" width="350" title="hover text">
+       <img src="http://www.tomorrowstarted.com/wp-content/uploads/2014/09/monty-python-make-tea-not-love-480x278.png" width="350" title="hover text">
   </p>
  
 
