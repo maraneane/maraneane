@@ -4,7 +4,7 @@
  <div>
   <div> 
   
-  ### "This is the secret of life: to be non-serious but absolutely involved"! (Sadhguru)
+  ### "This is the secret of life: to be non-serious but absolutely involved!" (Sadhguru)
   ##### .UX Research and Research Ops.
      
   <a href="https://github.com/maraneane">
