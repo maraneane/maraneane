@@ -1,4 +1,4 @@
-## Oi! Sou a Maraneane, sejam bem-vindes🌱 
+## Heeey! Welcome, make yourselves comfortable, grab a cup of tea.🌱 
                  
 
  <div>
@@ -14,6 +14,8 @@
  	<a href = "mailto:maraneane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maraneane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+        <a href="https://www.w3schools.com"><img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
+</a>
   
  ##
   
