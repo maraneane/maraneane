@@ -4,9 +4,9 @@
  <div>
   <div> 
   
-  ### Fiquem a vontade para discutir, perguntar enviar mensagens nas redes socias, estamos aqui para colaborar!
-  #### Curiosa
-   
+  ### This is the secret of life: to be non-serious but absolutely involved!
+    #### Sadhguru
+     
   <a href="https://github.com/maraneane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraneane&layout=compact&langs_count=7&theme=dracula"/>
       <p>
