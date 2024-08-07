@@ -4,7 +4,7 @@
   <div> 
   
   ### "This is the secret of life: to be non-serious but absolutely involved!" (Sadhguru)
-  ##### .UX RESEARCH.
+  ##### .UX.UI.Data.Research.
      
   <a href="https://github.com/maraneane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraneane&layout=compact&langs_count=7&theme=dracula"/>
